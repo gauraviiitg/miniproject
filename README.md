@@ -1,2 +1,2 @@
-# bank_loan_research
-unfinished
+# mini
+detecting disease
