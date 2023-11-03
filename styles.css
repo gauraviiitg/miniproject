@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.question {
+    margin: 20px 0;
+}
+
+.question p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.answer {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+button.yes {
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+}
+
+button.no {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+}
+
+.result {
+    margin: 40px 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+#diagnosis {
+    font-size: 18px;
+    color: #555;
+}
